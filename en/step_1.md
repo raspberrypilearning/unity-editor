@@ -1,59 +1,24 @@
-## Introduction
+![](images/unity-editor.png)
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+1. The Unity Menu - is used to import, open and save scenes and projects. You can amend your Unity Editor preferences and add new GameObjects and components.
 
-### What you will make
+2. The Toolbar - contains tools for navigating round in the Scene View, controlling play of the Game View and customising your Unity Editor layout.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+### Unity views
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+It's really important to understand the difference between the Scene view and the Game view. 
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+3. The Scene View - is used to navigate and edit your Scene. You can select and position GameObjects including characters, scenery, cameras and lights.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+4. The Game View - shows the scene as it looks through the lens of your cameras. When you click on the Play button to enter Playmode The Game View simulates your scene as it would be viewed by a user. Clicking the Play button again exits Playmode so you can continue editting your project.
+ 
+### Unity windows
 
-+ A computer or tablet capable of running Scratch 3
+5. The Hierarchy Window - shows all the GameObjects in your Scene and the structure between them. You can add and navigate the GameObjects in your project. GameObjects can had child objects that move with them.
 
-### Software
+6. The Project Window - shows a library of all the files included in your project. You can find Assets to use here.
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+7. The Console Window - shows important messages. This is where you can see Compiler errors (errors in your Script) and messages that you print using `Debug.Log()`.
 
-### Downloads
+8. The Inspector Window - allows you to view and edit the properties of GameObjects. You can add other components to your GameObjects and edit the values they use.
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
