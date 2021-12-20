@@ -1,4 +1,4 @@
-![](images/unity-editor.png)
+![The Unity editor in default layout with areas of the screen numbered. The Unty menu and Toolbar are at the top. The Scene and Game views are in the middle. The Hierarchy window is on the left. The Project and Console windows are at the bottom. The Inspector window is on the right.](images/unity-editor.png)
 
 1. **The Unity Menu** is used to import, open, and save scenes and projects. You can amend your Unity Editor preferences and add new GameObjects and components.
 
