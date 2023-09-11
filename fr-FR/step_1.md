@@ -1,24 +1,24 @@
-![The Unity editor in default layout with areas of the screen numbered. The Unty menu and Toolbar are at the top. The Scene and Game views are in the middle. The Hierarchy window is on the left. The Project and Console windows are at the bottom. The Inspector window is on the right.](images/unity-editor.png)
+![L'éditeur Unity dans sa disposition par défaut avec les zones de l'écran numérotées. Le menu Unity et la barre d'outils se trouvent en haut. Les vues Scene et Game se trouvent au milieu. La fenêtre Hierarchy se trouve à gauche. Les fenêtres Project et Console se trouvent en bas. The Inspector window is on the right.](images/unity-editor.png)
 
-1. **The Unity Menu** is used to import, open, and save scenes and projects. You can amend your Unity Editor preferences and add new GameObjects and components.
+1. **Le menu Unity** permet d'importer, d'ouvrir et d'enregistrer des scènes et des projets. Tu peux modifier les préférences de ton éditeur Unity et ajouter de nouveaux GameObjects et composants.
 
-2. **The Toolbar** contains tools for navigating in the Scene view, controlling play in the Game view, and customising your Unity Editor layout.
+2. **La barre d'outils** contient des outils permettant de naviguer dans la vue Scene, de contrôler le joueur dans la vue Game et de personnaliser la disposition de ton éditeur Unity.
 
-### Unity views
+### Vues Unity
 
-It's really important to understand the difference between the Scene view and the Game view.
+Il est vraiment important de comprendre la différence entre la vue Scene et la vue Game.
 
-3. **The Scene view** is used to navigate and edit your Scene. You can select and position GameObjects including characters, scenery, cameras, and lights.
+3. **La vue Scene** est utilisée pour naviguer et éditer ta scène. Tu peux sélectionner et positionner des GameObjects, y compris des personnages, des décors, des caméras et des lumières.
 
-4. **The Game view** shows the Scene as it looks through the lens of your cameras. When you click on the Play button to enter Play mode, the Game view simulates your Scene as it would be viewed by a user. Clicking the Play button again exits Play mode so you can continue to edit your project.
+4. **La vue Game** montre la scène telle qu'elle apparaît à travers l'objectif de ta caméra. Lorsque tu cliques sur le bouton Play pour passer en mode Play, la vue Game simule ta scène telle qu'elle serait vue par l'utilisateur. En cliquant à nouveau sur le bouton Play, tu quittes le mode Play et tu peux continuer à éditer ton projet.
 
-### Unity windows
+### Fenêtres Unity
 
-5. **The Hierarchy window** shows all the GameObjects in your Scene and the structure between them. You can add and navigate the GameObjects in your project. GameObjects can have child objects that move with them.
+5. **La fenêtre Hierarchy** affiche tous les GameObjects de ta scène et la structure entre eux. Tu peux ajouter et déplacer les GameObjects dans ton projet. Les GameObjects peuvent avoir des objets enfants qui se déplacent avec eux.
 
-6. **The Project window** shows a library of all the files included in your project. You can find Assets to use here.
+6. **La fenêtre Project** affiche une bibliothèque de tous les fichiers inclus dans ton projet. Tu peux trouver des assets à utiliser ici.
 
-7. **The Console window** shows important messages. This is where you can see Compiler errors (errors in your script) and messages that you print using `Debug.Log()`.
+7. **La fenêtre Console** affiche les messages importants. C'est ici que tu peux voir les erreurs de compilation (erreurs dans ton script) et les messages que tu imprimes à l'aide de `Debug.Log()`.
 
-8. **The Inspector window** allows you to view and edit the properties of GameObjects. You can add other components to your GameObjects and edit the values they use.
+8. **La fenêtre Inspector** te permet de visualiser et de modifier les propriétés des GameObjects. Tu peux ajouter d'autres composants à tes GameObjects et modifier les valeurs qu'ils utilisent.
 
