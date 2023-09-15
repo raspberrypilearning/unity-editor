@@ -1,4 +1,4 @@
-![L'éditeur Unity dans sa disposition par défaut avec les zones de l'écran numérotées. Le menu Unity et la barre d'outils se trouvent en haut. Les vues Scene et Game se trouvent au milieu. La fenêtre Hierarchy se trouve à gauche. Les fenêtres Project et Console se trouvent en bas. La fenêtre Inspector se trouve à droite.](images/unity-editor.png)
+![The Unity Editor in default layout with areas of the screen numbered. The Unity menu and Toolbar are at the top. Les vues Scene et Game se trouvent au milieu. La fenêtre Hierarchy se trouve à gauche. Les fenêtres Project et Console se trouvent en bas. La fenêtre Inspector se trouve à droite.](images/unity-editor.png)
 
 1. **Le menu Unity** permet d'importer, d'ouvrir et d'enregistrer des scènes et des projets. Tu peux modifier les préférences de ton éditeur Unity et ajouter de nouveaux GameObjects et composants.
 
