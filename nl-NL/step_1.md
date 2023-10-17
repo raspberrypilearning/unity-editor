@@ -1,24 +1,24 @@
-![The Unity Editor in default layout with areas of the screen numbered. The Unity menu and Toolbar are at the top. The Scene and Game views are in the middle. The Hierarchy window is on the left. The Project and Console windows are at the bottom. The Inspector window is on the right.](images/unity-editor.png)
+![De Unity-editor in de standaardlay-out met gebieden van het scherm genummerd. Het Unity-menu en de werkbalk staan bovenaan. De Scene en Game Views staan in het midden. Het Hierarchy venster bevindt zich aan de linkerkant. De Project- en Console-vensters bevinden zich aan de onderkant. Het venster Inspector bevindt zich aan de rechterkant.](images/unity-editor.png)
 
-1. **The Unity Menu** is used to import, open, and save scenes and projects. You can amend your Unity Editor preferences and add new GameObjects and components.
+1. **Het Unity Menu** wordt gebruikt om scènes en projecten te importeren, te openen en op te slaan. Je kunt je voorkeuren van de Unity Editor aanpassen en nieuwe GameObjects en componenten toevoegen.
 
-2. **The Toolbar** contains tools for navigating in the Scene view, controlling play in the Game view, and customising your Unity Editor layout.
+2. **De Toolbar** bevat hulpmiddelen voor navigeren in de scèneweergave, het besturen van het spel in de spelweergave en het aanpassen van de lay-out van de Unity-editor.
 
-### Unity views
+### Unity-weergaven
 
-It's really important to understand the difference between the Scene view and the Game view.
+Het is belangrijk om het verschil te begrijpen tussen de Scene-weergave en de Game-weergave.
 
-3. **The Scene view** is used to navigate and edit your Scene. You can select and position GameObjects including characters, scenery, cameras, and lights.
+3. **De Scène View** wordt gebruikt om te navigeren en je Scène te bewerken. Je kunt GameObjects selecteren en positioneren, inclusief personages, landschappen, camera's en lichten.
 
-4. **The Game view** shows the Scene as it looks through the lens of your cameras. When you click on the Play button to enter Play mode, the Game view simulates your Scene as it would be viewed by a user. Clicking the Play button again exits Play mode so you can continue to edit your project.
+4. **De Game view** laat de scène zien terwijl deze door de lens van je camera kijkt. Wanneer je op de knop afspelen klikt om naar de modus afspelen te gaan, simuleert de Spel weergave je scène zoals deze door een gebruiker zou worden bekeken. Als je opnieuw op de knop afspelen klikt, wordt de afspeelmodus afgesloten zodat je je project kunt blijven bewerken.
 
-### Unity windows
+### Unity-vensters
 
-5. **The Hierarchy window** shows all the GameObjects in your Scene and the structure between them. You can add and navigate the GameObjects in your project. GameObjects can have child objects that move with them.
+5. **Het Hierarchy venster** toont alle GameObjects in je scene en de structuur ertussen. Je kunt de GameObjects in je project toevoegen en navigeren. GameObjects kunnen onderliggende objecten hebben die mee bewegen.
 
-6. **The Project window** shows a library of all the files included in your project. You can find Assets to use here.
+6. **Het Project venster** toont een bibliotheek met alle bestanden die in je project zijn opgenomen. Je kunt hier Assets vinden die je kunt gebruiken.
 
-7. **The Console window** shows important messages. This is where you can see Compiler errors (errors in your script) and messages that you print using `Debug.Log()`.
+7. **Het Console venster** toont belangrijke berichten. Hier kun je compilerfouten (fouten in je script) zien en berichten die je afdrukt met `debugging.Log()`.
 
-8. **The Inspector window** allows you to view and edit the properties of GameObjects. You can add other components to your GameObjects and edit the values they use.
+8. **Het Inspector venster** laat je de eigenschappen van GameObjects zien en bewerken. Je kunt andere onderdelen aan je GameObjects toevoegen en de waarden die ze gebruiken bewerken.
 
