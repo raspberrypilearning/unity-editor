@@ -1,6 +1,6 @@
 ![De Unity-editor in de standaardlay-out met gebieden van het scherm genummerd. Het Unity-menu en de werkbalk staan bovenaan. De Scene en Game Views staan in het midden. Het Hierarchy venster bevindt zich aan de linkerkant. De Project- en Console-vensters bevinden zich aan de onderkant. Het venster Inspector bevindt zich aan de rechterkant.](images/unity-editor.png)
 
-1. **Het Unity Menu** wordt gebruikt om scènes en projecten te importeren, te openen en op te slaan. Je kunt je voorkeuren van de Unity Editor aanpassen en nieuwe GameObjects en componenten toevoegen.
+1. **Het Unity Menu** wordt gebruikt om scènes en projecten te importeren, te openen en op te slaan. Je kunt je voorkeuren van de Unity-editor aanpassen en nieuwe GameObjects en componenten toevoegen.
 
 2. **De Toolbar** bevat hulpmiddelen voor navigeren in de scèneweergave, het besturen van het spel in de spelweergave en het aanpassen van de lay-out van de Unity-editor.
 
@@ -8,9 +8,9 @@
 
 Het is belangrijk om het verschil te begrijpen tussen de Scene-weergave en de Game-weergave.
 
-3. **De Scène View** wordt gebruikt om te navigeren en je Scène te bewerken. Je kunt GameObjects selecteren en positioneren, inclusief personages, landschappen, camera's en lichten.
+3. **De Scène-weergave** wordt gebruikt om te navigeren en je Scène te bewerken. Je kunt GameObjects selecteren en positioneren, inclusief personages, landschappen, camera's en lichten.
 
-4. **De Game view** laat de scène zien terwijl deze door de lens van je camera kijkt. Wanneer je op de knop afspelen klikt om naar de modus afspelen te gaan, simuleert de Spel weergave je scène zoals deze door een gebruiker zou worden bekeken. Als je opnieuw op de knop afspelen klikt, wordt de afspeelmodus afgesloten zodat je je project kunt blijven bewerken.
+4. **De Game-weergave** laat de scène zien terwijl deze door de lens van je camera kijkt. Wanneer je op de knop afspelen klikt om naar de modus afspelen te gaan, simuleert de Game-weergave je scène zoals deze door een gebruiker zou worden bekeken. Als je opnieuw op de knop afspelen klikt, wordt de afspeelmodus afgesloten zodat je je project kunt blijven bewerken.
 
 ### Unity-vensters
 
